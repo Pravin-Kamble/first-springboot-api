@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Spring Boot config with secrets
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
